@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/devops-training/static/css/main.2cce8147.chunk.css",
+    "main.js": "/devops-training/static/js/main.936d3f3b.chunk.js",
+    "main.js.map": "/devops-training/static/js/main.936d3f3b.chunk.js.map",
+    "runtime~main.js": "/devops-training/static/js/runtime~main.88491cbe.js",
+    "runtime~main.js.map": "/devops-training/static/js/runtime~main.88491cbe.js.map",
+    "static/js/2.b41502e9.chunk.js": "/devops-training/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/devops-training/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/devops-training/index.html",
+    "precache-manifest.7b062ad1190674c51a090b3d57b52dfe.js": "/devops-training/precache-manifest.7b062ad1190674c51a090b3d57b52dfe.js",
+    "service-worker.js": "/devops-training/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/devops-training/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/devops-training/static/media/logo.5d5d9eef.svg"
+  }
+}
